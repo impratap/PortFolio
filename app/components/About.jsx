@@ -47,7 +47,7 @@ function About({isDarkMode}) {
             initial={{opacity:0}}
             whileInView={{opacity:1}}
             transition={{duration:0.6, delay:0.8}}
-            className='flex-1'>
+            className='flex-1 w-full'>
 
                 <p className='mb-10 max-w-2xl font-sans'>I'm a skilled Full Stack Web Developer and 
                     Data Scientist, adept at building robust 
